@@ -7,7 +7,7 @@
 <!-- ======================= FRASES ANIMADAS ======================= -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&color=00C2CB&center=true&vCenter=true&width=550&lines=Developer+Full-Stack;In+Learning;Evoluindo+Todos+os+Dias;Code+%F0%9F%92%80+Criatividade+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&color=00C2CB&center=true&vCenter=true&width=550&lines=Developer+Full-Stack;In+Learning;Evoluindo+Todos+os+Dias;Criatividade+e+Tecnologia;Construindo+o+Futuro+Com+Código" />
 </h2>
 
 ---
