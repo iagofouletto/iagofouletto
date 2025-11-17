@@ -1,15 +1,23 @@
+<div style="border-left: 6px solid #57DEC6; padding-left: 15px;">
+
 <h1 align="center">👋 Olá, eu sou o Iago Fouletto</h1>
-<h3 align="center">Desenvolvedor Full-Stack em formação</h3>
+
+<!-- TEXTO ANIMADO -->
+<h2 align="center">
+  <span style="color:#57DEC6">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=57DEC6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+em+formação;Apaixonado+por+tecnologia;Criando+projetos+e+soluções+todos+os+dias;Bem-vindo+ao+meu+GitHub!" />
+  </span>
+</h2>
 
 <p align="center">
   Apaixonado por tecnologia, programação e criação de soluções inteligentes.  
-  Atualmente focado em desenvolvimento **Full-Stack**, evoluindo todos os dias e construindo meu portfólio aqui no GitHub.
+  Atualmente focado em desenvolvimento <strong>Full-Stack</strong>, evoluindo todos os dias e construindo meu portfólio aqui no GitHub.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 💻 Estudante de desenvolvimento **Full-Stack**  
+- 💻 Estudante de desenvolvimento <strong>Full-Stack</strong> 
 - 📚 Sempre buscando aprender novas tecnologias  
 - 👨‍💻 Apaixonado por criar interfaces e sistemas funcionais  
 - 🔎 Explorando boas práticas, organização de código e metodologias  
@@ -42,7 +50,7 @@
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Excel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/452/microsoft-excel-2019.png" />
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
@@ -82,3 +90,4 @@ https://github.com/iagofouletto/iagofouletto
 ## 💬 Obrigado por visitar!
 Se quiser trocar uma ideia, dar dicas ou acompanhar meus projetos, minhas redes estão aí acima! 🚀
 
+</div>
