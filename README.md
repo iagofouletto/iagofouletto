@@ -1,41 +1,50 @@
 <!-- ======================= HEADER ANIMADO ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6257DE&height=180&section=header&text=Iago%20Fouletto&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2CB&height=180&section=header&text=👨‍💻%20Iago%20Fouletto&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ======================= FRASES ANIMADAS ======================= -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&color=C257DE&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-Stack+em+Formação;Criando+Experiências+Digitais;Evoluindo+Todos+os+Dias;Código+%F0%9F%92%80+Criatividade+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&color=00C2CB&center=true&vCenter=true&width=550&lines=Developer+Full-Stack;In+Learning;Evoluindo+Todos+os+Dias;Code+%F0%9F%92%80+Criatividade+%F0%9F%8C%9F" />
 </h2>
 
 ---
 
-## 👨‍💻 Sobre mim  
-Sou apaixonado por tecnologia, criação de interfaces modernas e desenvolvimento Full-Stack.  
-Sempre buscando evoluir, melhorar meus projetos e aprender novas ferramentas.
+## 😁 Sobre mim  
+Developer Full-Stack em formação  
+Apaixonado por tecnologia  
+Sempre querendo aprender mais  
 
-📍 Brasil  
+📍 Rondonópolis-MT, Brasil  
 📚 Estudante de Desenvolvimento Full-Stack  
-⚡ Explorando organização, desempenho e boas práticas  
+⚡ Organização, criatividade e prática  
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages & Frameworks:
+### **Languages**
+![Java](https://img.shields.io/badge/Java-00C2CB?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C2CB?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00C2CB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00C2CB?style=for-the-badge&logo=css3&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-4EC9B0?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C9E265?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-F4A259?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4A90E2?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5AA469?style=for-the-badge&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8E63D9?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-00C2CB?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00C2CB?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+---
+
+### **Tools & Other**
+![Git](https://img.shields.io/badge/Git-00C2CB?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00C2CB?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-00C2CB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-00C2CB?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00C2CB?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -57,5 +66,5 @@ Sempre buscando evoluir, melhorar meus projetos e aprender novas ferramentas.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6257DE&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2CB&height=150&section=footer" />
 </p>
