@@ -48,11 +48,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iagofouletto&show_icons=true&theme=tokyonight&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagofouletto&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=iagofouletto&theme=tokyonight" />
 </p>
 
 ---
