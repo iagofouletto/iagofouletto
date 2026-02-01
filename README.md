@@ -44,7 +44,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
 <div>
   <a href="https://github.com/iagofouletto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagofouletto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -58,8 +57,8 @@
 
 📸 Instagram: [@iguinpaiva](https://www.instagram.com/iguinpaiva)  
 💼 LinkedIn: [iago-fouletto](https://www.linkedin.com/in/iago-fouletto)  
-📧 Email: **iagopaivaofc@gmail.com**  
-📱 WhatsApp: **(66) 99951-3446**
+📧 Email: iagopaivaofc@gmail.com<br>
+📱 WhatsApp: (66) 99951-3446
 
 ---
 
