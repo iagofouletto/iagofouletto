@@ -1,26 +1,24 @@
 <!-- ======================= HEADER ======================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2CB&height=180&section=header&text=👨‍💻%20Iago%20Fouletto&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ======================= TYPING ======================= -->
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=00C2CB&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+in+Training;Always+Learning;Growing+Every+Day;Creativity+and+Technology;Building+the+Future+with+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=00C2CB&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Always+Learning;Evolving+every+day;Creativity+and+Technology;Building+the+Future+with+Code" />
 </h2>
 
 ---
 
 ## 👋 About Me  
 
-💻 **Full-Stack Developer in training**, passionate about technology and problem-solving.  
-🚀 Focused on learning, improving my skills, and building practical projects.  
-📚 Constantly studying new tools, best practices, and development concepts.
+💻 Um desenvolvedor resolvedor de problemas, apaixonado por tecnologia, transformando o mundo através dela.<br>
+📚 Estudando constantemente novas ferramentas, melhores práticas e conceitos de desenvolvimento.
 
-- 📍 Rondonópolis - MT, Brazil  
-- 🎓 Student of Full-Stack Development  
-- ⚡ Organization, creativity, and hands-on practice  
+- 📍 Rondonópolis - MT, Brasil
+- 🎓 Formado em técnico de informática no Instituto federal de Mato-Grosso
+- 🧑 Estudante de Desenvolvimento Full-Stack 
+- ⚡ Organização, criatividade e prática  
 
 ---
 
@@ -47,9 +45,12 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iagofouletto&theme=tokyonight" />
-</p>
+<div>
+  <a href="https://github.com/iagofouletto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagofouletto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagofouletto&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
 
 ---
 
@@ -57,7 +58,7 @@
 
 📸 Instagram: [@iguinpaiva](https://www.instagram.com/iguinpaiva)  
 💼 LinkedIn: [iago-fouletto](https://www.linkedin.com/in/iago-fouletto)  
-📧 Email: **iagofouletto@gmail.com**  
+📧 Email: **iagopaivaofc@gmail.com**  
 📱 WhatsApp: **(66) 99951-3446**
 
 ---
