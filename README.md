@@ -46,7 +46,7 @@
 ## 🌐 Connect with Me
 
 📸 Instagram: [@iguinpaiva](https://www.instagram.com/iguinpaiva)  
-💼 LinkedIn: [iago-fouletto](https://www.linkedin.com/in/iago-fouletto)  
+💼 LinkedIn: [iago fouletto](https://www.linkedin.com/in/iago-fouletto)  
 📧 Email: iagopaivaofc@gmail.com<br>
 📱 WhatsApp: (66) 99951-3446
 
